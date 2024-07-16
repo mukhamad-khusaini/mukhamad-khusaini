@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @mukhamad-khusaini
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning front-end developer
+# Hi there! 👋
 
-<!---
-mukhamad-khusaini/mukhamad-khusaini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm **Mukhamad Khusaini**, but you can call me **Husen**. I'm currently pursuing my Bachelor's degree in the Department of Economic Education. Alongside my studies, I'm diving deep into the world of **full stack web development**.
+
+I'm passionate about learning and growing in this field, and I'm always open to **collaborations** on web development projects. Let's create something amazing together!
+
+Feel free to reach out to me!
+
 
 [![Khusaini's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhamad-khusaini)](https://github.com/mukhamad-khusaini/github-readme-stats)
